@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1478639585 source:c:\users\nedret\desktop\prolab\p\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
+1478639585 source:c:\users\nedret\desktop\proje\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
+1480277853 source:c:\users\nedret\desktop\prolab\nedpaint\proje\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
+1480277853 source:d:\mühendislik\2016 - 2017\prolab proje\prolab\nedpaint\proje\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
+1506688957 source:d:\mühendislik\2016 - 2017\güz dönemi\prolab proje\prolab\nedpaint\proje\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
